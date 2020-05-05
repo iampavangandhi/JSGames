@@ -164,8 +164,8 @@ function update() {
   //Collision checking loop
   for (let i = 0; i < enemy.length; i++) {
     if (isColliding(enemy[i], player)) {
-      score -= i * 100;
-      health -= i * 10;
+      score -= (i+1) * 100;
+      health -= (i+1) * 10;
       if (score <= 0) {
         score = 0;
       }
