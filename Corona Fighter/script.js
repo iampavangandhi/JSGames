@@ -166,10 +166,10 @@ function update() {
     if (isColliding(enemy[i], player)) {
       score -= i * 100;
       health -= i * 10;
-      if (score < 0) {
+      if (score <= 0) {
         score = 0;
       }
-      if (health < 0) {
+      if (health <= 0) {
         health = 0;
         game_over = true;
         alert("Game Over");
