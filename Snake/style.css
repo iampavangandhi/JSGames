@@ -1,0 +1,32 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  overflow-x: hidden;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  padding: 0;
+  margin: 0;
+  font-size: 3rem;
+}
+
+h3 {
+  padding: 0;
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 1.5rem;
+}
+
+#main-canvas {
+  background-image: url("Assets/bg.jpg");
+  border: 15px solid green;
+}
