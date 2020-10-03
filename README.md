@@ -6,11 +6,11 @@
 
 ## Added Games
 
-### 1. [Corona Fighter](https://iampavangandhi.github.io/JSGames/Corona%20Fighter)
-### 2. [Snake Web Game](https://iampavangandhi.github.io/JSGames/Snake%20Web%20Game)
-### 3. [Tic Tac Toe](https://iampavangandhi.github.io/JSGames/Tic%20Tac%20Toe)
-### 4. [Ping Pong](https://iampavangandhi.github.io/JSGames/Ping%20Pong/)
-### 5. [Tetris](https://iampavangandhi.github.io/JSGames/Tetris)
+### 1. Corona Fighter: [Link](https://iampavangandhi.github.io/JSGames/Corona%20Fighter)
+### 2. Snake Web Game: [Link](https://iampavangandhi.github.io/JSGames/Snake%20Web%20Game)
+### 3. Tic Tac Toe: [Link](https://iampavangandhi.github.io/JSGames/Tic%20Tac%20Toe)
+### 4. Ping Pong: [Link](https://iampavangandhi.github.io/JSGames/Ping%20Pong/)
+### 5. Tetris Game: [Link](https://iampavangandhi.github.io/JSGames/Tetris)
 
 ## Contributing
 
