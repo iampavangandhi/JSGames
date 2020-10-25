@@ -5,6 +5,7 @@
 - ### [Tic Tac Toe](https://iampavangandhi.github.io/JSGames/Tic%20Tac%20Toe)
 - ### [Ping Pong](https://iampavangandhi.github.io/JSGames/Ping%20Pong/)
 - ### [Tetris](https://iampavangandhi.github.io/JSGames/Tetris)
+- ### [Pac-Man](https://github.com/sangramsecure/JSGames/tree/master/pac-man)
 
 ## Contributing
 
