@@ -1,4 +1,5 @@
 # 👾 JSGames - Games using vanilla Javascript
+
 > ### Website: [https://iampavangandhi.github.io/JSGames](https://iampavangandhi.github.io/JSGames) 🌐
 
 <br />
@@ -10,7 +11,6 @@
 ### 3. Tic Tac Toe: [Link](https://iampavangandhi.github.io/JSGames/Tic%20Tac%20Toe)
 ### 4. Ping Pong: [Link](https://iampavangandhi.github.io/JSGames/Ping%20Pong/)
 ### 5. Tetris Game: [Link](https://iampavangandhi.github.io/JSGames/Tetris)
-### 6. Pac-Man: [Link](https://github.com/sangramsecure/JSGames/tree/master/pac-man)
 
 ## Contributing
 
